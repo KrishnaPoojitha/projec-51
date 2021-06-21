@@ -1,0 +1,20 @@
+h1{
+    color:#a50047;
+    position:relative;
+    font-size:50px;
+}
+.form{
+    font-size:large;
+    font-style:italic;
+    font-size:25px;
+    position:relative;
+    left:1em;
+    
+    text-align:justify;
+    color:#000000;
+}
+body{
+    border:solid;
+    margin:0px;
+    background-image:url('bg.jpg');
+}
